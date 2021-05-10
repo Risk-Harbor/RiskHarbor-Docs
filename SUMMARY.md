@@ -2,12 +2,15 @@
 
 * [Overview](README.md)
 * [Whitepaper](whitepaper.md)
+* [Address Directory](address-directory.md)
 
-## Underwriter
-
-* [Shares](underwriter/shares.md)
+## Protocol
 
 ---
 
-* [Address Directory](address-directory.md)
+* [Underwriter](underwriter/README.md)
+  * [Claims](underwriter/claims.md)
+  * [Utilization](underwriter/utilization.md)
+  * [Shares](underwriter/shares.md)
+  * [Conversion](underwriter/conversion.md)
 
