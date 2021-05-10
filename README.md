@@ -1,3 +1,2 @@
-# Docs
+# Initial page
 
-Risk Harbor documents
