@@ -14,5 +14,5 @@
 
 ## Other
 
-* [Forking Mainnet locally](other/forking-mainnet-locally.md)
+* [Forking mainnet locally](other/forking-mainnet-locally.md)
 

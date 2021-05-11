@@ -4,7 +4,7 @@ description: >-
   mainnet without actually doing irreversible and costly transactions.
 ---
 
-# Forking Mainnet locally
+# Forking mainnet locally
 
 Clone the Risk Harbor Contracts repo and install dependencies:
 
