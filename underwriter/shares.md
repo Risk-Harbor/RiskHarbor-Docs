@@ -16,7 +16,13 @@ Shares.sol inherits [ERC20Upgradeable](https://github.com/OpenZeppelin/openzeppe
 
 Returns multiplication unit used for share price calculations to avoid floating point math
 
-**Returns:** \(uint256\) _Multiplication unit_
+{% tabs %}
+{% tab title="Returns" %}
+| Data Type | Description |
+| :--- | :--- |
+| uint256 | Multiplication unit |
+{% endtab %}
+{% endtabs %}
 
 ```javascript
 function getUnits() public view returns (uint256)
@@ -28,7 +34,13 @@ function getUnits() public view returns (uint256)
 
 Returns the current price per pool share
 
-**Returns:** \(uint256\) _Price per share_
+{% tabs %}
+{% tab title="Returns" %}
+| Data Type | Description |
+| :--- | :--- |
+| uint256 | Price Per Share |
+{% endtab %}
+{% endtabs %}
 
 ```javascript
 function getSharePrice() public view returns (uint256)
@@ -40,9 +52,19 @@ function getSharePrice() public view returns (uint256)
 
 Buy shares from the pool
 
-**Params:** \(uint256\) \_amount _Amount of currencyToken to buy shares with_
+{% tabs %}
+{% tab title="Params" %}
+| Data Type | Variable Name | Description |
+| :--- | :--- | :--- |
+| uint256 | \_amount | Amount of currencyToken to buy shares with |
+{% endtab %}
 
-**Returns:** \(uint256\) _Number of shares minted_
+{% tab title="Returns" %}
+| Data Type | Description |
+| :--- | :--- |
+| uint256 | Number of shares minted |
+{% endtab %}
+{% endtabs %}
 
 ```javascript
 function buyShares(uint256 _amount) internal returns (uint256)
@@ -54,11 +76,20 @@ function buyShares(uint256 _amount) internal returns (uint256)
 
 Sell shares to the pool and also grabs any swapped credit tokens and gov tokens
 
-**Params:** \(uint256\) \_shares Amount of shares to sell
+{% tabs %}
+{% tab title="Params" %}
+| Data Type | Variable Name | Description |
+| :--- | :--- | :--- |
+| uint256 | \_shares | Amount of shares to sell |
+{% endtab %}
 
-**Returns:** \(uint256\) _Amount of underlying tokens paid out_
-
-**Returns:** \(uint256\) _Amount of credit tokens paid out_
+{% tab title="Returns" %}
+| Data Type | Description |
+| :--- | :--- |
+| uint256 | Amount of underlying tokens paid out |
+| uint256 | Amount of credit tokens paid out |
+{% endtab %}
+{% endtabs %}
 
 ```javascript
 function sellShares(uint256 _shares) internal returns (uint256, uint256)

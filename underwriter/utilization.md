@@ -14,7 +14,13 @@ Utilization.sol inherits Storage and [Conversion](conversion.md)
 
 Sees how much of the pool is being utilized in terms of currency tokens
 
-**Returns:** \(uint256\) _Amount of currency token utilized_
+{% tabs %}
+{% tab title="Returns" %}
+| Data Type | Description |
+| :--- | :--- |
+| uint256 | Amount of currency token utilized |
+{% endtab %}
+{% endtabs %}
 
 ```javascript
 function getTotalCapacity() public view returns (uint256)
@@ -26,7 +32,13 @@ function getTotalCapacity() public view returns (uint256)
 
 Sees how much of the pool is being utilized in terms of credit tokens
 
-**Returns:** \(uint256\) _Amount of currency token utilized_
+{% tabs %}
+{% tab title="Returns" %}
+| Data Type | Description |
+| :--- | :--- |
+| uint256 | Amount of currency token utilized |
+{% endtab %}
+{% endtabs %}
 
 ```javascript
 function getTotalCapacityInCredit() external view returns (uint256)
@@ -38,7 +50,13 @@ function getTotalCapacityInCredit() external view returns (uint256)
 
 Sees how much of the pool is being utilized in terms of currency tokens tokens
 
-**Returns:** \(uint256\) _Amount of currency token utilized_
+{% tabs %}
+{% tab title="Returns" %}
+| Data Type | Description |
+| :--- | :--- |
+| uint256 | Amount of currency token utilized |
+{% endtab %}
+{% endtabs %}
 
 ```javascript
 function getUtilizedAmount() public view returns (uint256)
@@ -50,7 +68,13 @@ function getUtilizedAmount() public view returns (uint256)
 
 Sees how much of the pool is being utilized in terms of credit tokens 
 
-**Returns:** \(uint256\) _Amount of currency token utilized_
+{% tabs %}
+{% tab title="Returns" %}
+| Data Type | Description |
+| :--- | :--- |
+| uint256 | _Amount of currency token utilized in creditTokens_ |
+{% endtab %}
+{% endtabs %}
 
 ```javascript
 function getUtilizedAmount() public view returns (uint256)
@@ -60,9 +84,15 @@ function getUtilizedAmount() public view returns (uint256)
 
 ### getWithdrawable
 
-Sees how much of the currency pool tokens are withdrawable
+Sees how much of the currency pool token's are withdrawable
 
-**Returns:** \(uint256\) _Amount of currency tokens that you can withdraw_
+{% tabs %}
+{% tab title="Returns" %}
+| Data Type | Description |
+| :--- | :--- |
+| uint256 | Amount of currency tokens that you can withdraw |
+{% endtab %}
+{% endtabs %}
 
 ```javascript
 function getUtilizedAmount() public view returns (uint256)
@@ -74,7 +104,13 @@ function getUtilizedAmount() public view returns (uint256)
 
 Checks if pool is fully utilized or not
 
-**Returns:** \(bool\) _If pool is full_
+{% tabs %}
+{% tab title="Returns" %}
+| Data Type | Description |
+| :--- | :--- |
+| bool | If pool is full |
+{% endtab %}
+{% endtabs %}
 
 ```javascript
 function getUtilizedAmount() public view returns (uint256)

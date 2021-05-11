@@ -16,23 +16,39 @@ Conversion.sol inherits Storage
 
 Convert amount of creditTokens to currencyToken
 
-**Params:** \(uint256\) \_amount _Amount of creditTokens_
+{% tabs %}
+{% tab title="Params" %}
+| Data Type | Variable Name | Description |
+| :--- | :--- | :--- |
+| uint256 | \_amount | Amount of creditTokens |
+{% endtab %}
 
-**Returns:** \(uint256\) Amount of c_urrencyTokens_
-
-```javascript
-function creditToCurrency(uint256 _amount) public view returns (uint256)
-```
+{% tab title="Returns" %}
+| Data Type | Description |
+| :--- | :--- |
+| uint256 | Amount of currencyTokens |
+{% endtab %}
+{% endtabs %}
 
 ### 
 
 ### currencyToCredit
 
-Convert amount of creditTokens to currencyToken
+Convert amount of currencyToken to creditTokens
 
-**Params:** \(uint256\) \_amount _Amount of creditTokens_
+{% tabs %}
+{% tab title="Params" %}
+| Data Type | Variable Name | Description |
+| :--- | :--- | :--- |
+| uint256 | \_amount | Amount of currencyTokens |
+{% endtab %}
 
-**Returns:** \(uint256\) Amount of c_urrencyTokens_
+{% tab title="Returns" %}
+| Data Type | Description |
+| :--- | :--- |
+| uint256 | Amount of creditTokens |
+{% endtab %}
+{% endtabs %}
 
 ```javascript
 function creditToCurrency(uint256 _amount) public view returns (uint256)
