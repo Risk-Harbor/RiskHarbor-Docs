@@ -2,15 +2,17 @@
 
 * [Overview](README.md)
 * [Whitepaper](whitepaper.md)
-* [Address Directory](address-directory.md)
 
 ## Protocol
 
----
+* [Address Directory](protocol/address-directory.md)
+* [Underwriter](protocol/underwriter/README.md)
+  * [Claims](protocol/underwriter/claims.md)
+  * [Utilization](protocol/underwriter/utilization.md)
+  * [Shares](protocol/underwriter/shares.md)
+  * [Conversion](protocol/underwriter/conversion.md)
 
-* [Underwriter](underwriter/README.md)
-  * [Claims](underwriter/claims.md)
-  * [Utilization](underwriter/utilization.md)
-  * [Shares](underwriter/shares.md)
-  * [Conversion](underwriter/conversion.md)
+## Other
+
+* [Forking Mainnet locally](other/forking-mainnet-locally.md)
 
