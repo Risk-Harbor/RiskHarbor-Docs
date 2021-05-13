@@ -2,6 +2,7 @@
 
 * [Overview](README.md)
 * [Whitepaper](whitepaper.md)
+* [Audits](audits.md)
 
 ## Protocol
 
