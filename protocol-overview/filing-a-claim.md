@@ -1,8 +1,6 @@
 # Filing a Claim
 
-Filing a claim on risk harbor requires two consecutive transactions that cannot take place within the same block to prevent flash loan attacks. First, the Policyholder transfers their claim tokens to the Claims Contract by calling the`startSwap`function. Second, after waiting at least one block, they call the`finishSwap`function. The finish swap function checks that the claim is valid and, if it is, sends the claim tokens to the underwriters and sends the payout to the policyholder. 
+Filing a claim on risk harbor requires three steps . First, the Policyholder approves Second, the Policyholder transfers their claim tokens to the Claims Contract by calling the`startSwap`function. Second, after waiting at least one block, they call the`finishSwap`function. The finish swap function checks that the claim is valid and, if it is, sends the claim tokens to the underwriters and sends the payout to the policyholder. 
 
-![Claims Process](../.gitbook/assets/image%20%283%29.png)
-
-
+![](../.gitbook/assets/image%20%284%29.png)
 
