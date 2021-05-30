@@ -8,9 +8,9 @@ Anyone can underwrite a Policy as long as they are willing to take on the risk. 
 
 ![](../.gitbook/assets/image%20%282%29.png)
 
-The automated claim evaluation process tracks the evolution of public system state variables on the blockchain to determine whether or not to pay out a claim. Those variables differ from protocol to protocol and therefore must also differ from Policy to Policy. For example, the Policy that covers USDC in Compound tracks the ratio of outstanding claim tokens \(cUSDC\) to USDC while a policy that covers USDC but a protocol that insured Eth on AAVE would track different system state variables. 
+The automated claim evaluation process tracks the evolution of public system state variables on the blockchain to determine whether or not to pay out a claim. Those variables differ from protocol to protocol and therefore must also differ from Policy to Policy. For example, the Policy that covers USDC in Compound tracks the ratio of outstanding claim tokens \(cUSDC\) to USDC but a protocol that covered Eth in AAVE would track different system state variables. 
 
-In general, the claim is valid when The Underlying-To-Claim-Ratio Falls below a predetermined loss\_threshold:
+In general, the claim is valid when The Underlying-To-Claim-Ratio Falls below a predetermined `loss_threshold`:
 
 $$
 \text{Underlying-To-Claim-Ratio} = \frac{\text{UnderlyingTokens}}{\text{ClaimTokens}}<\text{Loss-Threshold}
