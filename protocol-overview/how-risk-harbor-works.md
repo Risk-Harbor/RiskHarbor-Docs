@@ -4,9 +4,7 @@ Each Risk harbor **Policy** manages a market for a single token deposited in a s
 
 Anyone can underwrite a Policy as long as they are willing to take on the risk. Similarly, Anyone can purchase a policy as long as they are willing to pay the premium.
 
- 
-
-![](../.gitbook/assets/image%20%282%29.png)
+![Protocol Diagram](../.gitbook/assets/image%20%285%29.png)
 
 The automated claim evaluation process tracks the evolution of public system state variables on the blockchain to determine whether or not to pay out a claim. Those variables differ from protocol to protocol and therefore must also differ from Policy to Policy. For example, the Policy that covers USDC in Compound tracks the ratio of outstanding claim tokens \(cUSDC\) to USDC but a protocol that covered Eth in AAVE would track different system state variables. 
 
