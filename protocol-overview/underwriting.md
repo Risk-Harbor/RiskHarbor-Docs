@@ -4,5 +4,9 @@ Underwriters are dripped premiums in exchange for providing cover to the protoco
 
 ![Choosing Price point](../.gitbook/assets/image%20%288%29.png)
 
+Underwriters can withdraw their capital if it is unutilized at any time. 
+
+![](../.gitbook/assets/image%20%289%29.png)
+
 
 
