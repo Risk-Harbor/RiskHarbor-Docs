@@ -1,3 +1,7 @@
+---
+description: Common terms and their definitions
+---
+
 # Glossary
 
 | **Term** | **Definition** |
