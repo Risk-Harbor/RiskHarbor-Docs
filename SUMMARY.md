@@ -12,7 +12,8 @@
 
 ## Guides
 
-* [UI Walkthrough](guides/ui-walkthrough.md)
+* [UI Walkthrough](guides/ui-walkthrough/README.md)
+  * [Pool Details Page](guides/ui-walkthrough/pool-details-page.md)
 
 ## Contracts
 

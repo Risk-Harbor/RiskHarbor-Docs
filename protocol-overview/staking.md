@@ -16,9 +16,11 @@ $$
 w_p = \frac{1}{2^p}
 $$
 
+Plotted Below
+
+![](../.gitbook/assets/w_pvsprice_point.png)
 
 
-![weights given price point.](https://lh3.googleusercontent.com/2KTuZklnlvU7i_weLd04YYtre7a6KKN0HO1zbdfioiHq2ERs86XMOjEJGRH_Yw3LOHDRmdLA30sL14hrMxfvHEjJv21vRxAPsPf1ImLpsGCgOguV9EzKQkCR7e5GEWpTv2AoEIYW)
 
 
 
