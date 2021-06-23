@@ -14,9 +14,9 @@ Our mission is to secure the world’s transition to decentralized financial ser
 
 ### Contracts
 
-{% page-ref page="audits.md" %}
+{% page-ref page="contracts/audits.md" %}
 
-{% page-ref page="contract-addresses.md" %}
+{% page-ref page="contracts/contract-addresses.md" %}
 
 ### UI walkthrough
 

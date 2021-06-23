@@ -10,11 +10,14 @@
 * [Filing a Claim](protocol-overview-1/filing-a-claim.md)
 * [Staking](protocol-overview-1/staking.md)
 
+## Contracts
+
+* [Security Audits](contracts/audits.md)
+* [Contract Addresses](contracts/contract-addresses.md)
+
 ---
 
 * [FAQ](faq.md)
 * [Whitepaper](whitepaper.md)
-* [Security Audits](audits.md)
-* [Contract Addresses](contract-addresses.md)
 * [Untitled](untitled.md)
 
