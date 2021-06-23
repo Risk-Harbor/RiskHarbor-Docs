@@ -28,7 +28,7 @@ No, currently there are no fees incorporated in the protocol.
 
 ### Key definitions
 
-Protection: A means of securing against an assets loss.
+Protection: A means of securing against the loss of an asset.
 
 Policyholder or protection purchaser: A user who purchases protection.
 
