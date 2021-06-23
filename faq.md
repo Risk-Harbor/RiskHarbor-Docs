@@ -2,15 +2,13 @@
 
 Didn't find an answer? Join the [community Discord](https://discord.gg/7aAC4p6vsr) to get support
 
-Want to read more in depth? Read our [docs](https://www.riskharbor.com/faq#)
-
 ### Is there a Risk Harbor token?
 
 No, there is no Risk Harbor token at the moment. Please beware of any scams that claim so and closely follow our official channels to find out when we will be launching it.
 
 ### What is Risk Harbor?
 
-Risk Harbor is a risk management marketplace for decentralized finance \(DeFi\) that utilizes a completely automated, transparent, and impartial claims process to protect liquidity providers and stakers against smart contract hacks and attacks. Users can purchase protection that shields them from either a basket of risks or individually selected risks that they want to protect against. This creates a personalized buying experience for users to where they can curate their protection to fit a wide variety of unique risk profiles.
+Risk Harbor is a risk management marketplace for Decentralized Finance \(DeFi\) that utilizes a completely automated, transparent, and impartial claims process to protect liquidity providers and stakers against smart contract hacks and attacks. Users can purchase protection that shields them from either a basket of risks or individually selected risks that they want to protect against. This creates a personalized buying experience for users to where they can curate their protection to fit a wide variety of unique risk profiles.
 
 ### How do I use Risk Harbor?
 
@@ -26,11 +24,11 @@ When a protected contract is hacked, protected users or policyholders submit two
 
 ### Are there any fees?
 
-No, currently there are no fees incorporated in the protocol.
+Currently, there are no fees incorporated in the protocol.
 
 ### Key definitions
 
-Protection: A means of securing against an assets loss.
+Protection: A means of securing against the loss of an asset.
 
 Policyholder or protection purchaser: A user who purchases protection.
 
