@@ -1,7 +1,5 @@
 # Home Page
 
-## \*\*\*\*
-
 **Connect a Wallet -**Users can connect their Ethereum wallet of choice directly via the wallet connection portal. We also support the WalletConnect protocol that allows the user to connect many supported wallets.
 
 **Explore The Market -** Here users can view four pool cards recommended based on the tokens in their wallet. On these cards, the largest number displayed is the price point and the little number below that is the utilization at the price point. At the top of the cards is information about which asset is being protected and what tokens claims resolve to.

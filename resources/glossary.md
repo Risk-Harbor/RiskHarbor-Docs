@@ -9,8 +9,8 @@ description: Common terms and their definitions
 | **Protection** | Protection against the loss of an asset |
 | **Policyholder** | A user who purchases protection. |
 | **Underwriter** |  A user who stakes their assets in protection pools |
-| **Loss threshold** | The percentage of a loss that must be surpassed  |
-| **Minimum Capital Requirement \(MCR\)** | The minimum amount of capital that underwriters will need to have staked in a pool in order to pay out the total amount a contract has protected. |
+| **Loss threshold** | The percentage of a loss that must be surpassed for a claim to be valid |
+| **Minimum Capital Requirement** | The minimum amount of capital that underwriters will need to have staked in a pool in order to pay out the outstanding policy interest |
 | **Price** | The price of protection represented as a percent of the protected token. |
 | **Protected token** |  The token that is being protected. |
 | **Underlying token** | The token that the claim token redeems into. |

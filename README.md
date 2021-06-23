@@ -34,7 +34,3 @@ Our mission is to secure the world’s transition to decentralized financial ser
 
 
 
-If you can't find what you're looking for, feel free to pop in our discord
-
-
-
