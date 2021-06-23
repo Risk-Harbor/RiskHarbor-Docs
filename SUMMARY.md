@@ -28,3 +28,8 @@
 
 * [Untitled](contact/untitled.md)
 
+---
+
+* [Discord](https://discord.gg/YAbCmPJRMx)
+* [Twitter](https://twitter.com/riskharbor)
+
