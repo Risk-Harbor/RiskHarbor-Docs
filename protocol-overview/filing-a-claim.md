@@ -4,7 +4,9 @@ Filing a claim on risk harbor requires three steps. First, the Policyholder appr
 
 ![](../.gitbook/assets/image%20%284%29.png)
 
-Policyholders can file their claims directly through the UI. For a walkthrough of how to do that, see Filing a claim - UI tutorial
+Policyholders can file their claims directly through the UI
+
+{% page-ref page="../uiwalkthrough/pool-details-page.md" %}
 
 
 

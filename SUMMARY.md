@@ -24,6 +24,7 @@
 
 * [FAQ](resources/faq.md)
 * [Whitepaper](resources/whitepaper-1.md)
+* [Glossary](resources/glossary.md)
 
 ## Contact
 

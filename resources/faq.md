@@ -26,29 +26,5 @@ When a protected contract is hacked, protected users or policyholders submit two
 
 No, currently there are no fees incorporated in the protocol.
 
-### Key definitions
 
-Protection: A means of securing against the loss of an asset.
-
-Policyholder or protection purchaser: A user who purchases protection.
-
-Underwriter: A user who stakes their assets in protection pools.
-
-Loss threshold: The percentage of a loss that must be surpassed to trigger a credit default event.
-
-Minimum Capital Requirement \(MCR\): The minimum amount of capital that underwriters will need to have staked in a pool in order to pay out the total amount a contract has protected.
-
-Price: The price of protection represented as a percent of the protected token.
-
-Protected token: The token that is being protected.
-
-Underlying token: The token that the claim token redeems into.
-
-Underwriting token: The token that the protection is underwritten in.
-
-Default ratio: The ratio for which a default event is considered.
-
-Payout ratio: The ratio for which the user will be paid per token covered.
-
-Expiration date/block: The expiration block number and date of expiration.
 
