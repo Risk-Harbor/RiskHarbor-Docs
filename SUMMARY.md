@@ -10,17 +10,17 @@
 * [Filing a Claim](protocol-overview/filing-a-claim.md)
 * [Staking](protocol-overview/staking.md)
 
+## Guides
+
+* [UI walkthrough](guides/ui-walkthrough.md)
+
+## Contracts
+
+* [Security Audits](contracts/security-audits.md)
+* [Contract Addresses](contracts/contract-addresses.md)
+
 ## Resources
 
 * [FAQ](resources/faq.md)
 * [Whitepaper](resources/whitepaper-1.md)
-
-## Contracts
-
-* [Security Audits](contracts/audits.md)
-* [Contract Addresses](contracts/contract-addresses.md)
-
-## Guides
-
-* [UI walkthrough](guides/ui-walkthrough.md)
 
