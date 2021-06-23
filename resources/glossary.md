@@ -12,7 +12,7 @@ description: Common terms and their definitions
 | **Loss threshold** | The percentage of a loss that must be surpassed for a claim to be valid |
 | **Minimum Capital Requirement** | The minimum amount of capital that underwriters will need to have staked in a pool in order to pay out the outstanding policy interest |
 | **Price** | The price of protection represented as a percent of the protected token. |
-| **Protected token** |  The token that is being protected. |
+| **Protected token** | The token that is being protected. |
 | **Underlying token** | The token that the claim token redeems into. |
 | **Underwriting token** | The token that the protection is underwritten in. |
 | **Default ratio** | The ratio for which a default event is considered. |
