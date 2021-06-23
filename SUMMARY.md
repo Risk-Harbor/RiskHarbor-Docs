@@ -12,7 +12,7 @@
 
 ## Guides
 
-* [UI walkthrough](guides/ui-walkthrough.md)
+* [UI Walkthrough](guides/ui-walkthrough.md)
 
 ## Contracts
 

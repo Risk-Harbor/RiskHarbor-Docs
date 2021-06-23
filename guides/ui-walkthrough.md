@@ -1,4 +1,4 @@
-# UI walkthrough
+# UI Walkthrough
 
 ## **Home Page**
 
