@@ -29,5 +29,5 @@
 ## Contact
 
 * [Twitter](https://twitter.com/riskharbor)
-* [Discord](https://discord.gg/YAbCmPJRMx)
+* [Discord](https://discord.gg/S78P9rwYXX)
 
