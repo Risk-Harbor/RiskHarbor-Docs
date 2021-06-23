@@ -24,7 +24,7 @@ Our mission is to secure the world’s transition to decentralized financial ser
 
 {% page-ref page="./" %}
 
-{% page-ref page="protocol-overview-1/faq.md" %}
+{% page-ref page="faq.md" %}
 
 {% page-ref page="protocol-overview-1/whitepaper.md" %}
 

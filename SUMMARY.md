@@ -10,7 +10,10 @@
 * [Filing a Claim](protocol-overview-1/filing-a-claim.md)
 * [Staking](protocol-overview-1/staking.md)
 * [Whitepaper](protocol-overview-1/whitepaper.md)
-* [FAQ](protocol-overview-1/faq.md)
+
+---
+
+* [FAQ](faq.md)
 
 ## Contracts
 
