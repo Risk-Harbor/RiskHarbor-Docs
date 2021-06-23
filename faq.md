@@ -8,7 +8,7 @@ No, there is no Risk Harbor token at the moment. Please beware of any scams that
 
 ### What is Risk Harbor?
 
-Risk Harbor is a risk management marketplace for Decentralized Finance \(DeFi\) that utilizes a completely automated, transparent, and impartial claims process to protect liquidity providers and stakers against smart contract hacks and attacks. Users can purchase protection that shields them from either a basket of risks or individually selected risks that they want to protect against. This creates a personalized buying experience for users to where they can curate their protection to fit a wide variety of unique risk profiles.
+Risk Harbor is a risk management marketplace for decentralized finance \(DeFi\) that utilizes a completely automated, transparent, and impartial claims process to protect liquidity providers and stakers against smart contract hacks and attacks. Users can purchase protection that shields them from either a basket of risks or individually selected risks that they want to protect against. This creates a personalized buying experience for users to where they can curate their protection to fit a wide variety of unique risk profiles.
 
 ### How do I use Risk Harbor?
 
@@ -48,7 +48,7 @@ Underwriting token: The token that the protection is underwritten in.
 
 Default ratio: The ratio for which a default event is considered.
 
-Payout ratio: The ratio for which the user will be paid per token covered.
+Payout ratio: The ratio for which the user will be paid per each token covered.
 
 Expiration date/block: The expiration block number and date of expiration.
 

@@ -9,4 +9,5 @@
 * [FAQ](faq.md)
 * [Whitepaper](whitepaper.md)
 * [Security Audits](audits.md)
+* [Contract Addresses](contract-addresses.md)
 
