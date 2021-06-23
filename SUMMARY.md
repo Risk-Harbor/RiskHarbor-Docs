@@ -7,5 +7,5 @@
   * [Underwriting](protocol-overview/underwriting.md)
   * [Pricing & Purchasing](protocol-overview/pricing.md)
 * [Whitepaper](whitepaper.md)
-* [Audits](audits.md)
+* [Security Audits](audits.md)
 
