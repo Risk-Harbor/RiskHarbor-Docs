@@ -8,11 +8,11 @@ Our mission is to secure the world’s transition to decentralized financial ser
 
 ### Protocol Overview
 
-{% page-ref page="protocol-overview-1/how-risk-harbor-works.md" %}
+{% page-ref page="protocol-overview/how-risk-harbor-works.md" %}
 
-{% page-ref page="protocol-overview-1/underwriting.md" %}
+{% page-ref page="protocol-overview/underwriting.md" %}
 
-{% page-ref page="protocol-overview-1/pricing.md" %}
+{% page-ref page="protocol-overview/pricing.md" %}
 
 ### Resources
 
