@@ -22,5 +22,5 @@
 
 ## Guides
 
-* [UI Walkthrough](guides/ui-walkthrough.md)
+* [UI walkthrough](guides/ui-walkthrough.md)
 
