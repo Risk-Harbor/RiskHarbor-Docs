@@ -6,6 +6,7 @@
   * [Filing a Claim](protocol-overview/filing-a-claim.md)
   * [Underwriting](protocol-overview/underwriting.md)
   * [Pricing & Purchasing](protocol-overview/pricing.md)
+  * [Staking](protocol-overview/staking.md)
 * [FAQ](faq.md)
 * [Whitepaper](whitepaper.md)
 * [Security Audits](audits.md)
