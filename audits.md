@@ -1,6 +1,6 @@
 # Audits
 
-## Risk Harbor v1
+## Risk Harbor V1
 
 ### CertiK Audit - 04/27/2021
 
