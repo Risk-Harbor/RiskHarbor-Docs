@@ -1,10 +1,6 @@
 # Introduction
 
-Risk Harbor is a risk management marketplace with a fully automated claims process. This claims process eliminates the need for Humans to review claims, meaning policyholders can be paid out almost instantly.
+Risk Harbor is a risk management marketplace for decentralized finance \(DeFi\) that utilizes a completely automated, transparent, and impartial claims process to protect liquidity providers and stakers against smart contract hacks and attacks.
 
-Risk Harbor is decentralized, censorship-resistant, and does not require Know Your Customer \(KYC\).
-
-
-
-
+Our mission is to secure the world’s transition to decentralized financial services by removing the need for trusted intermediaries, thereby creating a truly permissionless and open financial system accessible to everyone.
 
