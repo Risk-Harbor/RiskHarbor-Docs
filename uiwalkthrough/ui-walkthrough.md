@@ -1,6 +1,6 @@
-# UI Walkthrough
+# Home Page
 
-## **Home Page**
+## \*\*\*\*
 
 **Connect a Wallet -**Users can connect their Ethereum wallet of choice directly via the wallet connection portal. We also support the WalletConnect protocol that allows the user to connect many supported wallets.
 

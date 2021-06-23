@@ -26,9 +26,11 @@ Our mission is to secure the world’s transition to decentralized financial ser
 
 {% page-ref page="contracts/contract-addresses.md" %}
 
-### Guides
+### UI Walkthrough
 
-{% page-ref page="guides/ui-walkthrough/" %}
+{% page-ref page="uiwalkthrough/ui-walkthrough.md" %}
+
+{% page-ref page="uiwalkthrough/pool-details-page.md" %}
 
 
 

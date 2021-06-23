@@ -10,10 +10,10 @@
 * [Filing a Claim](protocol-overview/filing-a-claim.md)
 * [Staking](protocol-overview/staking.md)
 
-## Guides
+## UI walkthrough <a id="uiwalkthrough"></a>
 
-* [UI Walkthrough](guides/ui-walkthrough/README.md)
-  * [Pool Details Page](guides/ui-walkthrough/pool-details-page.md)
+* [Home Page](uiwalkthrough/ui-walkthrough.md)
+* [Pool Details Page](uiwalkthrough/pool-details-page.md)
 
 ## Contracts
 
