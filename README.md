@@ -10,23 +10,15 @@ Our mission is to secure the world’s transition to decentralized financial ser
 
 {% page-ref page="protocol-overview-1/how-risk-harbor-works.md" %}
 
-{% page-ref page="underwriting.md" %}
+{% page-ref page="protocol-overview-1/underwriting.md" %}
 
 {% page-ref page="protocol-overview-1/pricing.md" %}
 
-{% page-ref page="protocol-overview-1/filing-a-claim.md" %}
+### Resources
 
-{% page-ref page="protocol-overview-1/staking.md" %}
+{% page-ref page="resources/faq.md" %}
 
-### Contracts
-
-
-
-{% page-ref page="./" %}
-
-{% page-ref page="faq.md" %}
-
-{% page-ref page="protocol-overview-1/whitepaper.md" %}
+{% page-ref page="resources/whitepaper-1.md" %}
 
 ### Contracts
 
@@ -34,7 +26,9 @@ Our mission is to secure the world’s transition to decentralized financial ser
 
 {% page-ref page="contracts/contract-addresses.md" %}
 
-### UI walkthrough
+### Guides
 
-{% page-ref page="./" %}
+{% page-ref page="contracts/contract-addresses.md" %}
+
+
 
