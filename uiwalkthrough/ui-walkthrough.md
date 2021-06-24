@@ -41,7 +41,7 @@ _Protected -_ The amount of protection that the policyholder has.
 _Pool Status -_ Displays whether the pool is open, closed, or hacked.
 
 **Footer**  
-Risk Harbor Socials, FAQ, Documentation, Whitepaper, and Feedback form are in the footer.
+Risk Harbor Socials, Documentation, FAQ Whitepaper, and Feedback form are in the footer.
 
 \*\*\*\*
 
