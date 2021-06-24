@@ -14,7 +14,7 @@ description: Common terms and their definitions
 | **Claim token** | A token that can be redeemed for the underlying token through a DeFi protocol |
 | **Underlying token** | The claim token redeems to the underlying token. |
 | **Underwriting token** | The token that the protection is underwritten in |
-| **Default ratio** | The ratio of claim tokens to redeemed underlying tokens that defines the loss threshold |
+| **Default ratio** | The ratio of claim tokens to redeemed underlying tokens that define the loss threshold |
 | **Payout ratio** | The ratio at which the user will be paid per token covered if they file a valid claim  |
 | **Expiration date/block** | The expiration block number and estimated date of expiration |
 

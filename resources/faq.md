@@ -24,7 +24,7 @@ When a protected contract is hacked, protected users or policyholders submit two
 
 ### Are there any fees?
 
-No. Currently there are no fees incorporated in the protocol.
+No. Currently, there are no fees incorporated in the protocol.
 
 
 

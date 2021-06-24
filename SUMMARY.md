@@ -14,6 +14,7 @@
 
 * [Home Page](uiwalkthrough/ui-walkthrough.md)
 * [Pool Details Page](uiwalkthrough/pool-details-page.md)
+* [Pool List Page](uiwalkthrough/pool-list-page.md)
 
 ## Contracts
 

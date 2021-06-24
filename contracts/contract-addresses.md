@@ -5,7 +5,7 @@
 | Contract Name | Address |
 | :--- | :--- |
 | Ticket Token \(ERC20\) | [0x56fc70e104aEa357F9E795c245be3689117D0030](https://etherscan.io/address/0x56fc70e104aEa357F9E795c245be3689117D0030) |
-| Ticket Distributor & Whitelist | [0x9412bB81E1E5fdafFBc6d6081B1a3388A076d949](https://etherscan.io/address/0x9412bB81E1E5fdafFBc6d6081B1a3388A076d949) |
+| Ticket Distributor and Whitelist | [0x9412bB81E1E5fdafFBc6d6081B1a3388A076d949](https://etherscan.io/address/0x9412bB81E1E5fdafFBc6d6081B1a3388A076d949) |
 
 #### Defaultectors
 
