@@ -14,6 +14,7 @@ Over 375 million dollars in value has been lost to hacks and attacks on DeFi pro
 | Alpha Finance | Ethereum | $37 Million |
 | Parity | Ethereum | $30 Million |
 | dForce | Ethereum | $25 Million |
+| Harvest | Ethereum | $24 Million |
 | Pickle Finance | Ethereum | $20 Million |
 | Meercat Finance | Binance Smart Chain | $13 Million |
 | Yearn | Ethereum | $11 Million |
@@ -22,7 +23,7 @@ Over 375 million dollars in value has been lost to hacks and attacks on DeFi pro
 | bZx | Ethereum | $8 Million |
 | Warp | Ethereum | $8 Million |
 | Cover | Ethereum | $4 Million |
-| Total |   | $697 Million+ |
+| Total |   | $721 Million+ |
 
 ### Protocol Overview
 
