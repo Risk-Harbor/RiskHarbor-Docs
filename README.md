@@ -4,20 +4,25 @@ Risk Harbor is a risk management marketplace for decentralized finance \(DeFi\) 
 
 Over 375 million dollars in value has been lost to hacks and attacks on DeFi protocols in just over 4 years. Yield farmers and liquidity providers take on considerable tail risk when staking their assets in protocols, even protocols that have been audited. Until now, financial derivative and insurance protocols designed to manage these risks were either overpriced or fundamentally flawed in design. Risk Harbor is the first decentralized two-sided marketplace for fully automated risk management financial derivates.
 
-| Protocol | Ethereum |  |
+| Protocol | Ethereum | Amount |
 | :--- | :--- | :--- |
+| PAID network | Ethereum | $180 Million |
 | Parity | Ethereum | $160 Million |
+| EasyFi | Polygon | $80 Million |
 | DAO | Ethereum | $50 Million |
 | Uranium Finance | Binance Smart Chain | $50 Million |
+| Alpha Finance | Ethereum | $37 Million |
 | Parity | Ethereum | $30 Million |
 | dForce | Ethereum | $25 Million |
 | Pickle Finance | Ethereum | $20 Million |
+| Meercat Finance | Binance Smart Chain | $13 Million |
 | Yearn | Ethereum | $11 Million |
+| Rari | Ethereum | $11 Million |
 | Maker | Ethereum | $9 Million |
 | bZx | Ethereum | $8 Million |
 | Warp | Ethereum | $8 Million |
 | Cover | Ethereum | $4 Million |
-| Total |   | $375 Million+ |
+| Total |   | $697 Million+ |
 
 ### Protocol Overview
 
