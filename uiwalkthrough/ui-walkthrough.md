@@ -38,7 +38,7 @@ _Pool Status -_ Displays whether the pool is open, closed, or hacked.
 
 **Footer**
 
-Users can access Risk Harbor Socials, FAQ, Documentation, Whitepaper, and Feedback form in the Footer.
+Risk Harbor Socials, FAQ, Documentation, Whitepaper, and Feedback form are in the Footer.
 
 \*\*\*\*
 
