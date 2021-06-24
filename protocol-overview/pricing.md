@@ -4,7 +4,7 @@ When underwriters deposit into the pool, they choose a **Price Point** at which 
 
 ![](../.gitbook/assets/liquidity-vs.-premium-point-1-.png)
 
-Potential policyholders observe the Price Points that are available and can buy at any Price Point with sufficient unutilized underwriting capital. If the Potential Policyholder wishes to purchase more protection than is available at one price point, he can split his order across multiple price points.
+Potential policyholders observe the Price Points that are available and can buy at any Price Point with sufficient unutilized underwriting capital. If the Potential Policyholder wishes to purchase more protection that is available at one price point, he can split his order across multiple price points.
 
 
 
