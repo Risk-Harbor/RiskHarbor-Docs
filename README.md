@@ -19,7 +19,7 @@ Over 375 million dollars in value has been lost to hacks and attacks on DeFi pro
 | bZx | Ethereum | $8 Million |
 | Warp | Ethereum | $8 Million |
 | Cover | Ethereum | $4 Million |
-| Total |   | $375 Million |
+| Total |   | $375 Million+ |
 
 ### Protocol Overview
 
