@@ -6,7 +6,3 @@ Filing a claim on risk harbor requires three steps. First, the Policyholder appr
 
 Policyholders can file their claims directly through the web application.
 
-{% page-ref page="../uiwalkthrough/pool-details-page.md" %}
-
-
-
