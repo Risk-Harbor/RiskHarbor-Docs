@@ -1,7 +1,6 @@
 # Home Page
 
-**Connect Wallet**  
-Users can connect their Ethereum wallet of choice directly via the wallet connection portal. We also support the WalletConnect protocol that allows the user to connect many supported wallets.
+**Connect a Wallet -** Users can connect their Ethereum wallet of choice directly via the wallet connection portal. We also support the WalletConnect protocol that allows the user to connect many supported wallets.
 
 **Explore The Market**  
 Here, users can view four pool cards recommended based on the tokens in their wallets. The most significant number displayed on these cards is the price point. The smaller number below that is the utilization at the price point. Finally, At the top are acronyms that denote credit and underwriting tokens.
@@ -21,7 +20,7 @@ _Price Point -_ The price point at which the user provided underwriting capital
 
 _Expiration Date Estimate -_ An estimate of the date at which the contract expires. 
 
-_Underwritten-_ The size of the user’s position
+_Underwritten -_ The size of the user’s position
 
 _Pool Status -_ Displays the status of the pool if it’s hacked or closed. If the pool is open, nothing is shown.
 
@@ -34,7 +33,7 @@ _Price Point -_ The price point at which the user provided underwriting capital.
 
 _Expiration Date Estimate -_ An estimate of the date at which the contract expires based on the
 
-_Expiration Block Number. The block number at which the pool will be closed._
+_Expiration Block Number - The block number at which the pool will be closed._
 
 _Protected -_ The amount of protection that the policyholder has.
 

@@ -1,7 +1,5 @@
 # Introduction
 
-![](.gitbook/assets/banner-1-.png)
-
 Risk Harbor is a risk management marketplace for decentralized finance \(DeFi\) that utilizes a completely automated, transparent, and impartial claims process to protect liquidity providers and stakers against smart contract hacks and attacks.
 
 Over 375 million dollars in value has been lost to hacks and attacks on DeFi protocols in just over 4 years. Yield farmers and liquidity providers take on considerable tail risk when staking their assets in protocols, even protocols that have been audited. Until now, financial derivative and insurance protocols designed to manage these risks were either overpriced or fundamentally flawed in design. Risk Harbor is the first decentralized two-sided marketplace for fully automated risk management financial derivates.
@@ -29,17 +27,9 @@ Over 375 million dollars in value has been lost to hacks and attacks on DeFi pro
 
 {% page-ref page="protocol-overview/pricing.md" %}
 
-### Resources
+{% page-ref page="protocol-overview/filing-a-claim.md" %}
 
-{% page-ref page="resources/faq.md" %}
-
-{% page-ref page="resources/whitepaper-1.md" %}
-
-### Contracts
-
-{% page-ref page="contracts/security-audits.md" %}
-
-{% page-ref page="contracts/contract-addresses.md" %}
+{% page-ref page="protocol-overview/staking.md" %}
 
 ### UI Walkthrough
 
@@ -47,5 +37,17 @@ Over 375 million dollars in value has been lost to hacks and attacks on DeFi pro
 
 {% page-ref page="uiwalkthrough/pool-details-page.md" %}
 
+### Contracts
 
+{% page-ref page="contracts/security-audits.md" %}
+
+{% page-ref page="contracts/contract-addresses.md" %}
+
+### Resources
+
+{% page-ref page="resources/faq.md" %}
+
+{% page-ref page="resources/whitepaper-1.md" %}
+
+{% page-ref page="resources/glossary.md" %}
 
