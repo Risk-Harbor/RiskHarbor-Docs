@@ -38,5 +38,9 @@ Yes, simply unstake on the staking tab and withdraw on the underwrite tab. Keep 
 
 Any capital that is being used to underwrite a policy can be lost if a hack takes place on the protected protocol. 
 
+### How do I see how many tickets I've earned?
+
+Go to the stake tab and switch to the unstake view.
+
 
 
