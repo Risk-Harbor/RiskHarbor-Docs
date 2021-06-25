@@ -4,5 +4,5 @@ Underwriters are dripped premiums over time in exchange for providing cover and 
 
 ![](../.gitbook/assets/image%20%2811%29.png)
 
-This chart depicts the deposited underwriting capital at each price point. Once policyholders purchase, utilization will also be  
+This chart depicts the deposited underwriting capital at each price point. Once policyholders purchase, utilization will also be shown on this chart.  
 
