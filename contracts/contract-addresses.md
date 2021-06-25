@@ -1,3 +1,7 @@
+---
+description: These are the trusted contract addresses of the Risk Harbor protocol
+---
+
 # Contract Addresses
 
 ## **General Contracts**
