@@ -26,5 +26,17 @@ When a protected contract is hacked, protected users or policyholders submit two
 
 No. Currently, there are no fees incorporated in the protocol.
 
+### If I underwrite, will my capital be locked?
+
+Capital is only locked when it is needed to underwrite an outstanding policy. So as long as your capital is not being used to back a policy you can withdraw it at any time. 
+
+### Can I withdraw from a staked underwrite position?
+
+Yes, simply unstake on the staking tab and withdraw on the underwrite tab. Keep in mind that you cannot withdraw capital that is needed to underwrite an outstanding policy. 
+
+### If a protocol is hacked, how much can I lose as an underwriter?
+
+Any capital that is being used to underwrite a policy can be lost if a hack takes place on the protected protocol. 
+
 
 
