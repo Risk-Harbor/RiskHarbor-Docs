@@ -6,11 +6,11 @@ All you need to start off is some USDC
 
 ### Step 1: Stake your USDC in yearn to receive yvUSDC
 
-Navigate to [yearn.finance/vaults](https://yearn.finance/vaults) and click show on the USDC vault tab
+Navigate to [yearn.finance/vaults](https://yearn.finance/vaults) and click show on the USDC vault tab.
 
 ![](../.gitbook/assets/image%20%2827%29.png)
 
-Enter the amount you want to purchase and click deposit
+Enter the amount you want to purchase and click deposit.
 
 ![](../.gitbook/assets/image%20%2825%29.png)
 
@@ -18,7 +18,7 @@ Approve the transaction using your wallet of choice. You now have yvUSDC in your
 
 ### Step2: Deposit the yvUSDC into the Risk Harbor Pool
 
-Now navigate to [https://app.riskharbor.com/home](https://app.riskharbor.com/home) and select the pool that you want to add underwriting capital to
+Now navigate to [https://app.riskharbor.com/home](https://app.riskharbor.com/home) and select the pool that you want to add underwriting capital to.
 
 ![App home page](../.gitbook/assets/image%20%2821%29.png)
 
