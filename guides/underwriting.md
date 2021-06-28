@@ -40,5 +40,5 @@ Select the position that you wish to stake from the dropdown menu
 
 ![staking position dropdown menu](../.gitbook/assets/image%20%2817%29.png)
 
-Enter the amount that you want to stake from that position \(there is a max button if you want to stake all of it\). Then click the stake button at the bottom of the box. Again this requires approving two transactions, one that approves the sending of your position tokens and the other that actually performs the staking function. 
+Enter the amount that you want to stake from that position \(there is a max button if you want to stake all of it\). Then click the stake button at the bottom of the box. Again, this requires approving two transactions, one that approves the sending of your position tokens and the other that actually performs the staking function. 
 
