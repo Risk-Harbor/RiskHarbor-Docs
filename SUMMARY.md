@@ -12,7 +12,7 @@
 
 ## Guides
 
-* [Underwriting](guides/underwriting.md)
+* [Underwriting & Staking](guides/underwriting.md)
 * [Staking](guides/staking.md)
 * [Purchasing](guides/purchasing.md)
 
