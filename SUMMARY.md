@@ -10,6 +10,12 @@
 * [Filing a Claim](protocol-overview/filing-a-claim.md)
 * [Staking](protocol-overview/staking.md)
 
+## Guides
+
+* [Underwriting](guides/underwriting.md)
+* [Staking](guides/staking.md)
+* [Purchasing](guides/purchasing.md)
+
 ## UI walkthrough <a id="uiwalkthrough"></a>
 
 * [Home Page](uiwalkthrough/ui-walkthrough.md)
