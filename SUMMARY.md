@@ -13,8 +13,7 @@
 ## Guides
 
 * [Underwriting & Staking](guides/underwriting.md)
-* [Staking](guides/staking.md)
-* [Purchasing](guides/purchasing.md)
+* [Purchasing & Filing a Claim](guides/purchasing.md)
 
 ## UI walkthrough <a id="uiwalkthrough"></a>
 
