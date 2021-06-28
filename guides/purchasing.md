@@ -1,6 +1,6 @@
 # Purchasing & Filing a Claim
 
-To purchase protection on Risk Harbor, you need to already own part of the position that you want to protect since premiums are paid in the credit token that you receive when you enter a position in the protected protocol.  For example, if you want to purchase protection in the BarnBridge cUSDC pool you need to have some bb\_cUSDC already. 
+To purchase protection on Risk Harbor, you need to already own part of the position that you want to protect since premiums are paid in the credit token that you receive when you enter a position in the protected protocol. For example, if you want to purchase protection in the BarnBridge cUSDC pool you need to have some bb\_cUSDC already. 
 
 ### Step 1\) Navigate to the pool page
 
