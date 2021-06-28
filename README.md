@@ -1,6 +1,6 @@
 # Introduction
 
-Risk Harbor is a risk management marketplace for decentralized finance \(DeFi\) that utilizes a completely automated, transparent, and impartial claims process to protect liquidity providers and stakers against smart contract hacks and attacks.
+[Risk Harbor](https://www.riskharbor.com/) is a risk management marketplace for decentralized finance \(DeFi\) that utilizes a completely automated, transparent, and impartial claims process to protect liquidity providers and stakers against smart contract hacks and attacks.
 
 Over $721 million dollars in value has been lost to hacks and attacks on DeFi protocols in just over four years. Yield farmers and liquidity providers take on considerable tail risk when staking their assets in protocols, even protocols that have been audited. Until now, financial derivative and insurance protocols designed to manage these risks were either overpriced or fundamentally flawed in design. Risk Harbor is the first decentralized two-sided marketplace for fully automated risk management financial derivates.
 
