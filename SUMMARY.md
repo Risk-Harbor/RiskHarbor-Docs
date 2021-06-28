@@ -10,10 +10,10 @@
 * [Filing a Claim](protocol-overview/filing-a-claim.md)
 * [Staking](protocol-overview/staking.md)
 
-## UI Guides
+## UI Guide
 
-* [Underwriting & Staking](ui-guides/underwriting.md)
-* [Purchasing & Filing a Claim](ui-guides/purchasing.md)
+* [Underwriting & Staking](ui-guide/underwriting.md)
+* [Purchasing & Filing a Claim](ui-guide/purchasing.md)
 
 ## UI Summary
 

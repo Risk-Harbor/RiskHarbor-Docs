@@ -47,9 +47,9 @@ Over $721 million dollars in value has been lost to hacks and attacks on DeFi pr
 
 ### Guides
 
-{% page-ref page="ui-guides/underwriting.md" %}
+{% page-ref page="ui-guide/underwriting.md" %}
 
-{% page-ref page="ui-guides/purchasing.md" %}
+{% page-ref page="ui-guide/purchasing.md" %}
 
 ### Contracts
 
