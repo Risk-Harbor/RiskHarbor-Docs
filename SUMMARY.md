@@ -10,16 +10,16 @@
 * [Filing a Claim](protocol-overview/filing-a-claim.md)
 * [Staking](protocol-overview/staking.md)
 
-## Guides
+## UI Guides
 
-* [Underwriting & Staking](guides/underwriting.md)
-* [Purchasing & Filing a Claim](guides/purchasing.md)
+* [Underwriting & Staking](ui-guides/underwriting.md)
+* [Purchasing & Filing a Claim](ui-guides/purchasing.md)
 
-## UI walkthrough <a id="uiwalkthrough"></a>
+## UI Summary
 
-* [Home Page](uiwalkthrough/ui-walkthrough.md)
-* [Pool Details Page](uiwalkthrough/pool-details-page.md)
-* [Pool List Page](uiwalkthrough/pool-list-page.md)
+* [Home Page](ui-summary/ui-walkthrough.md)
+* [Pool Details Page](ui-summary/pool-details-page.md)
+* [Pool List Page](ui-summary/pool-list-page.md)
 
 ## Contracts
 
