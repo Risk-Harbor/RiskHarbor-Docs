@@ -22,6 +22,8 @@ Risk Harbor is protection for the people, built by the people.
 
 There are two ways to use the Risk Harbor protocol. First, a user can underwrite pools by depositing capital. In return, an underwriter receives premiums and tokens. Secondly, a user can purchase protection for a specific length of time in exchange for a percentage of tokens that they want to insure.
 
+Check the guides section in the documentation for a more detailed step-by-step process on how to use the platform.
+
 ### How does Risk Harbor work?
 
 Protection is underwritten by users who are also known as underwriters, who will have the ability to create a variety of unique protection pools with various custom parameters or have the opportunity to join existing pools created by other underwriters.
