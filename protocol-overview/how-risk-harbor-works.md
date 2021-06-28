@@ -14,11 +14,3 @@ $$
 \text{Underlying-To-Claim-Ratio} = \frac{\text{UnderlyingTokens}}{\text{ClaimTokens}}<\text{Loss-Threshold}
 $$
 
-
-
-
-
-
-
-\*\*\*\*
-
