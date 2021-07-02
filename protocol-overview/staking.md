@@ -16,7 +16,7 @@ Plotted Below
 
 
 
-We use the following formula to calculate staking rewards at each block:
+We use the following formula to calculate individual staking rewards per block:
 
 $$
 R_{ib}= \tau_b \frac{\overbrace{\sum_{p \in \mathcal{P}} a_{ip}w_{p}}^{\text{Weighted Individual Capital}}}{\underbrace{\sum_{j =1}^n\sum_{p \in \mathcal{P}} a_{jp}w_{jp}}_{\text{Weighted Total Capital}}}
