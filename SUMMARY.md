@@ -12,8 +12,10 @@
 
 ## UI Guide
 
-* [Underwriting & Staking](ui-guide/underwriting.md)
-* [Purchasing & Filing a Claim](ui-guide/purchasing.md)
+* [Underwriting](ui-guide/underwriting.md)
+* [Staking](ui-guide/staking.md)
+* [Purchasing](ui-guide/purchasing.md)
+* [Filing a Claim](ui-guide/filing-a-claim.md)
 
 ## UI Summary
 

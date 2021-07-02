@@ -1,4 +1,4 @@
-# Underwriting & Staking
+# Underwriting
 
 Underwriters at risk harbor earn premiums from policyholders and can stake to earn ticket rewards that will eventually be redeemable for governance tokens. This step-by-step guide walks you through how to underwrite in the BarnBridge cUSDC pool. 
 
@@ -20,25 +20,23 @@ Approve the transaction using your wallet of choice. You now have yvUSDC in your
 
 Now navigate to [https://app.riskharbor.com/home](https://app.riskharbor.com/home) and select the pool that you want to add underwriting capital to.
 
-![App home page](../.gitbook/assets/image%20%2821%29.png)
+![Landing Page](../.gitbook/assets/image%20%2841%29.png)
 
-![BarnBridge cUSDC pool page](../.gitbook/assets/image%20%2822%29.png)
+![bb\_cUSDC pool page](../.gitbook/assets/image%20%2840%29.png)
 
 Click on the **underwrite** tab in the box on the right. 
 
-![Underwrite Tab](../.gitbook/assets/image%20%2813%29.png)
+![](../.gitbook/assets/image%20%2830%29.png)
 
-Choose a price point to underwrite at \(the lower the price point, the higher your staking rewards will be\). Enter the amount of yvUSDC that you want to deposit and then click deposit. This is a two-step process that requires you to approve depositing your yvUSDC into the pool and then approve the deposit transaction itself. 
+Choose a price point to underwrite at \(the lower the price point, the higher your staking rewards will be\). 
 
-### Step3: Stake your position to earn tickets
+![](../.gitbook/assets/image%20%2833%29.png)
 
-Once you have deposited your yvUSDC you are ready to stake your position and earn staking rewards. First, click on **stake** in the box on the right side of the screen.
+Enter the amount of yvUSDC that you want to deposit and then click deposit. This is a two-step process that requires you to approve depositing your yvUSDC into the pool and then approve the deposit transaction itself. 
 
-![Staking Tab](../.gitbook/assets/image%20%2828%29.png)
+{% embed url="https://www.youtube.com/watch?v=emVTBXecoBg" %}
 
-Select the position that you wish to stake from the dropdown menu
 
-![staking position dropdown menu](../.gitbook/assets/image%20%2817%29.png)
 
-Enter the amount that you want to stake from that position \(there is a max button if you want to stake all of it\). Then click the stake button at the bottom of the box. Again, this requires approving two transactions, one that approves the sending of your position tokens and the other that actually performs the staking function. 
+### 
 
