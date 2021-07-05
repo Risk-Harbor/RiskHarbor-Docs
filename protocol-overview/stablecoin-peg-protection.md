@@ -17,13 +17,13 @@ Taking the log has the additional benefit of making geometric mean computation m
 When computing the geometric mean itself, Uniswap offers another convenient solution. Instead of storing tick prices at each block, which would require significant computation for the smart contract calling the oracle in order to compute the TWAP from the data, UniswapV3 stores cumulative time-weighted ticks. This simplifies computing the geometric mean to a simple fraction
 
 $$
-log_{1.0001}(\text{TWAP}) = (c_2-c_1)/(t_2-t_1)
+log_{1.0001}(\text{TWAP}) = \frac{c_2-c_1}{t_2-t_1}
 $$
 
 Which can be simplified to
 
 $$
-\text{TWAP} = 1.0001^{(c_2-c_1)/(t_2-t_1)}
+\text{TWAP} = 1.0001^{\frac{c_2-c_1}{t_2-t_1}}
 $$
 
 **Protection against impermanent loss for LPs in stablecoin pools**
