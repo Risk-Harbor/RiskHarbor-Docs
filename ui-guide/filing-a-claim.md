@@ -2,6 +2,10 @@
 
 ## Filing a claim
 
+### Here's a quick video:
+
+{% embed url="https://www.youtube.com/watch?v=RXkqK\_DxrfU" %}
+
 ### Step 1\) Click on the claim tab
 
 Click claim in the box on the right and enter the amount of protection that you want to claim. 
@@ -19,10 +23,6 @@ Then the user starts the swap and the protocol checks the validity of the claim.
 ### Step 4\) Finish Swap
 
 Finally, the user calls finish swap and the protocol sends the currency tokens to the claimant.
-
-{% embed url="https://www.youtube.com/watch?v=RXkqK\_DxrfU" %}
-
-
 
 
 
