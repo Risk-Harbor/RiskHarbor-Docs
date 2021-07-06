@@ -18,11 +18,11 @@
 * [Purchasing](ui-guide/purchasing.md)
 * [Filing a Claim](ui-guide/filing-a-claim.md)
 
-## UI Summary
+## Product Summary <a id="summary"></a>
 
-* [Home Page](ui-summary/ui-walkthrough.md)
-* [Pool Details Page](ui-summary/pool-details-page.md)
-* [Pool List Page](ui-summary/pool-list-page.md)
+* [Home Page](summary/ui-walkthrough.md)
+* [Pool Details Page](summary/pool-details-page.md)
+* [Pool List Page](summary/pool-list-page.md)
 
 ## Contracts
 
