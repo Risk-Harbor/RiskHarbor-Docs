@@ -39,15 +39,7 @@ Over $721 million dollars in value has been lost to hacks and attacks on DeFi pr
 
 {% page-ref page="protocol-overview/stablecoin-peg-protection.md" %}
 
-### UI Walkthrough
-
-{% page-ref page="ui-summary/ui-walkthrough.md" %}
-
-{% page-ref page="ui-summary/pool-details-page.md" %}
-
-{% page-ref page="ui-summary/pool-list-page.md" %}
-
-### Guides
+### UI Guide
 
 {% page-ref page="ui-guide/underwriting.md" %}
 
@@ -56,6 +48,14 @@ Over $721 million dollars in value has been lost to hacks and attacks on DeFi pr
 {% page-ref page="ui-guide/purchasing.md" %}
 
 {% page-ref page="protocol-overview/filing-a-claim.md" %}
+
+### UI Summary
+
+{% page-ref page="ui-summary/ui-walkthrough.md" %}
+
+{% page-ref page="ui-summary/pool-details-page.md" %}
+
+{% page-ref page="ui-summary/pool-list-page.md" %}
 
 ### Contracts
 
