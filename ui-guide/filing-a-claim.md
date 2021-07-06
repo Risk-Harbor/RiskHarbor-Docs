@@ -4,7 +4,7 @@
 
 ### Here's a quick video:
 
-{% embed url="https://www.youtube.com/watch?v=RXkqK\_DxrfU" %}
+{% embed url="https://www.youtube.com/watch?v=RXkqK\_DxrfU" caption="Demo" %}
 
 ### Step 1\) Click on the claim tab
 
