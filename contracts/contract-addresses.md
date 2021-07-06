@@ -47,5 +47,19 @@ description: These are the trusted contract addresses of the Risk Harbor protoco
 | Underwriter | 0x6c6531b77831166ae657d586f9a466370775730b |
 | StakingRewards | 0x392a78a567e314ab12051664f889a6ed62a00f04 |
 {% endtab %}
+
+{% tab title="Yearn V2 yvDAI : Cream DAI" %}
+**Expiration Block:** 13371990
+
+| Contract | Address |
+| :--- | :--- |
+| Yearn Wrapper | 0x3e82BBfAC3bFFa8C0bbD6A3BAf9dba762eB7083B |
+| PolicyHolder | 0xae71EFc53871e316EE314243d1D8D10213B84e7C |
+| Underwriter | 0xe08564d61E907dcaC8A9140263AD57459D30Edd9 |
+| StakingRewards | 0x45106e250402D1E49c1E076B601E6813A6AB7f52 |
+
+|  |
+| :--- |
+{% endtab %}
 {% endtabs %}
 
