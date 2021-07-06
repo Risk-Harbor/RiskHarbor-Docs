@@ -2,6 +2,10 @@
 
 Underwriters at risk harbor earn premiums from policyholders and can stake to earn ticket rewards that will eventually be redeemable for governance tokens. This step-by-step guide walks you through how to underwrite in the BarnBridge cUSDC pool. 
 
+### Here's a quick video:
+
+{% embed url="https://www.youtube.com/watch?v=emVTBXecoBg" caption="Demo" %}
+
 All you need to start off is some USDC
 
 ### Step 1: Stake your USDC in yearn to receive yvUSDC
@@ -33,10 +37,4 @@ Choose a price point to underwrite at \(the lower the price point, the higher yo
 ![](../.gitbook/assets/image%20%2833%29.png)
 
 Enter the amount of yvUSDC that you want to deposit and then click deposit. This is a two-step process that requires you to approve depositing your yvUSDC into the pool and then approve the deposit transaction itself. 
-
-{% embed url="https://www.youtube.com/watch?v=emVTBXecoBg" %}
-
-
-
-### 
 
