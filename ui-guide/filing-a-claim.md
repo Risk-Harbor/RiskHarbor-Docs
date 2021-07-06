@@ -24,5 +24,3 @@ Then the user starts the swap and the protocol checks the validity of the claim.
 
 Finally, the user calls finish swap and the protocol sends the currency tokens to the claimant.
 
-
-
