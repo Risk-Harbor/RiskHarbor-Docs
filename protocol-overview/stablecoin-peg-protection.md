@@ -6,13 +6,13 @@ Risk Harbor’s newest offering: stablecoin peg protection promises to help inve
 
 **How It Works:**
 
-Risk Harbor stablecoin protection relies on UniswapV3’s Time Weighted Average Price \(TWAP\) oracle to evaluate claims. Whenever a claim is filed, the protocol queries Uniswap, computes the TWAP over the last hour based on that data, and checks if the TWAP is below the default price. If it is, then the claim is eligible to be paid out, otherwise, the claim is rejected.
+Risk Harbor stablecoin protection relies on Uniswap v3’s Time Weighted Average Price \(TWAP\) oracle to evaluate claims. Whenever a claim is filed, the protocol queries Uniswap, computes the TWAP over the last hour based on that data, and checks if the TWAP is below the default price. If it is, then the claim is eligible to be paid out, otherwise, the claim is rejected.
 
 **Computing the Time Weighted Average Price:**
 
-In Uniswapv3, ticks are the prices that can act as upper and lower bounds on concentrated lp positions. Since these ticks are quite granular \(about 1 every basis point\), they act as a reasonable proxy for prices. They are particularly desirable as a stand-in for prices in a time-weighted average since compact price data means lower storage requirements and lower storage requirements lower gas costs. UniswapV3 improves on these storage requirements even further by first taking the $$\log_{1.0001}$$ of the tick before storing.
+In Uniswap v3, ticks are the prices that can act as upper and lower bounds on concentrated LP positions. Since these ticks are quite granular \(about 1 every basis point\), they act as a reasonable proxy for prices. They are particularly desirable as a stand-in for prices in a time-weighted average since compact price data means lower storage requirements and lower storage requirements lower gas costs. UniswapV3 improves on these storage requirements even further by first taking the $$\log_{1.0001}$$ of the tick before storing.
 
-Taking the log has the additional benefit of making geometric mean computation much more gas efficient. The geometric mean is preferable to the arithmetic mean in this context since, as the uniswap white paper mentions in a footnote, one of the common ways to model trading pairs are using geometric Brownian motion, and taking arithmetic means of such processes would result in overweighting changes at high price points where small percentage changes in price mean large absolute changes.
+Taking the log has the additional benefit of making geometric mean computation much more gas efficient. The geometric mean is preferable to the arithmetic mean in this context since, as the Uniswap white paper mentions in a footnote, one of the common ways to model trading pairs are using geometric Brownian motion, and taking arithmetic means of such processes would result in overweighting changes at high price points where small percentage changes in price mean large absolute changes.
 
 When computing the geometric mean itself, Uniswap offers another convenient solution. Instead of storing tick prices at each block, which would require significant computation for the smart contract calling the oracle in order to compute the TWAP from the data, UniswapV3 stores cumulative time-weighted ticks. This simplifies computing the geometric mean to a simple fraction
 
@@ -32,5 +32,5 @@ One potential group of policyholders are liquidity providers on stablecoin only 
 
 **Protecting Non-USD stables**
 
-This approach extends easily to other stablecoins on the ethereum network such as the bitcoin stables wBTC, renBTC, and sBTC or euro stablecoins.
+This approach will seamlessly extend to other stablecoins on the ethereum network such as the bitcoin stables wBTC, renBTC, and sBTC or euro stablecoins.
 
