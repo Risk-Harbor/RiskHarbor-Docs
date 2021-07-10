@@ -6,7 +6,7 @@ Risk Harbor’s newest offering: stablecoin peg protection promises to help inve
 
 **How It Works:**
 
-Risk Harbor stablecoin insurance relies on UniswapV3’s Time Weighted Average Price \(TWAP\) oracle to evaluate claims. Whenever a claim is filed, the protocol queries Uniswap, computes the TWAP over the last hour based on that data, and checks if the TWAP is below the default price. If it is, then the claim is eligible to be paid out, otherwise, the claim is rejected.
+Risk Harbor stablecoin protection relies on UniswapV3’s Time Weighted Average Price \(TWAP\) oracle to evaluate claims. Whenever a claim is filed, the protocol queries Uniswap, computes the TWAP over the last hour based on that data, and checks if the TWAP is below the default price. If it is, then the claim is eligible to be paid out, otherwise, the claim is rejected.
 
 **Computing the Time Weighted Average Price:**
 
