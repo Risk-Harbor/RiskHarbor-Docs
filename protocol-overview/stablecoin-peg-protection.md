@@ -1,8 +1,8 @@
 # Stablecoin Peg Protection
 
-Tether’s legal troubles, FEI’s April price fluctuations, USDC’s delayed may attestations, and DAI’s flash loan vulnerabilities all demonstrate a troubling fact: the so-called ‘stablecoins’, on which the entire DeFI system runs, aren't all that stable after all. This is particularly concerning for institutional investors who have lower risk tolerance than the average diamond-handed DeFi ape. Without protection, the risk of stablecoins losing their pegs alone might be enough to prevent these more risk-sensitive investors from entering the DeFi space.
+Tether’s legal troubles, FEI’s April price fluctuations, USDC’s delayed may attestations, and DAI’s flash loan vulnerabilities all demonstrate a troubling fact: the so-called ‘stablecoins’, on which the entire DeFI system runs on, aren't all that stable after all. This is particularly concerning for institutional investors who have a lower risk appetite than the average diamond-handed DeFi ape. Without protection, the risk of stablecoins losing their pegs alone might be enough to prevent these more risk-sensitive investors from entering the DeFi space.
 
-Risk Harbor’s newest offering: stablecoin peg protection promises to help investors manage the risk of stablecoin pegs loss by offering risk transfer financial derivatives that allow users to exchange their devalued stablecoin for a different stablecoin if the one that they are holding loses its peg. Purchasing this protection means the policyholder is exposed to stable coin peg loss only if both the underlying stablecoin and the paid-out stablecoin lose their peg simultaneously.
+Risk Harbor’s newest offering: stablecoin peg protection promises to help investors manage the risk of stablecoin peg loss by offering risk transfer financial derivatives that allow users to exchange their devalued stablecoin for a different stablecoin if the one that they are holding loses its peg. Purchasing this protection means the policyholder is exposed to stable coin peg loss only if both the underlying stablecoin and the paid-out stablecoin lose their peg simultaneously.
 
 **How It Works:**
 
