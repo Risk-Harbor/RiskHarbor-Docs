@@ -36,5 +36,5 @@ This approach will seamlessly extend to other stablecoins on the ethereum networ
 
 **Oracle attacks**
 
-An oracle failure alone would not be enough to cause significant financial harm to underwriters with this protocol. If an oracle reveals that a stablecoin has slipped its peg when in fact it has not, policyholders would be able to exchange one stablecoin for another, neither of which will have lost its peg so policyholders will not be able to profitably exploit the system by attacking the oracle. 
+If the oracle reveals that a stablecoin has slipped its peg when in fact it has not, policyholders would be able to exchange one stablecoin for another, neither of which will have lost its peg so policyholders will not be able to profitably exploit the system by attacking the oracle. 
 
