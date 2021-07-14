@@ -20,6 +20,7 @@ description: These are the trusted contract addresses of the Risk Harbor protoco
 | :--- | :--- |
 | Ticket Contract | 0xc0F5e29D35100fd7fE4e5AE573f441ae905F1505 |
 | Merkle Distributor | 0xA47B0C25D1A50FEC9699EBF98E0969511a082885 |
+| Router/Registry | 0xeFAE7938df76884309C5b5cA82Afc1E75562aD91 |
 {% endtab %}
 {% endtabs %}
 
