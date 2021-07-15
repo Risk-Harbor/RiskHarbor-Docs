@@ -22,6 +22,12 @@ description: These are the trusted contract addresses of the Risk Harbor protoco
 | Merkle Distributor | 0xA47B0C25D1A50FEC9699EBF98E0969511a082885 |
 | Router/Registry | 0xeFAE7938df76884309C5b5cA82Afc1E75562aD91 |
 {% endtab %}
+
+{% tab title="" %}
+| Contract Name | Address |
+| :--- | :--- |
+| Router | 0x2467ff631F37f2717b554312ce7BF35bF9598F72 |
+{% endtab %}
 {% endtabs %}
 
 ## **Pool Addresses**
