@@ -8,11 +8,11 @@ description: These are the trusted contract addresses of the Risk Harbor protoco
 
 {% tabs %}
 {% tab title="Mainnet" %}
-| Contract Name | Address | Type |
-| :--- | :--- | :--- |
-| Ticket Contract | 0x56fc70e104aEa357F9E795c245be3689117D0030 | ERC20 |
-| Merkle Distributor | 0x9412bB81E1E5fdafFBc6d6081B1a3388A076d949 |  |
-| Router/Registry | 0x557970aebd504a84dc8b3b535ab02f603418a7c8 |  |
+| Contract Name | Address |
+| :--- | :--- |
+| Ticket Contract | 0x56fc70e104aEa357F9E795c245be3689117D0030 |
+| Merkle Distributor | 0x9412bB81E1E5fdafFBc6d6081B1a3388A076d949 |
+| Router/Registry | 0x557970aebd504a84dc8b3b535ab02f603418a7c8 |
 {% endtab %}
 
 {% tab title="Matic" %}
@@ -23,7 +23,7 @@ description: These are the trusted contract addresses of the Risk Harbor protoco
 | Router/Registry | 0xeFAE7938df76884309C5b5cA82Afc1E75562aD91 |
 {% endtab %}
 
-{% tab title="" %}
+{% tab title="Mumbai" %}
 | Contract Name | Address |
 | :--- | :--- |
 | Router | 0x2467ff631F37f2717b554312ce7BF35bF9598F72 |
