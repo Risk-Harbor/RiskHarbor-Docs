@@ -32,6 +32,8 @@ description: These are the trusted contract addresses of the Risk Harbor protoco
 
 ## **Pool Addresses**
 
+### Mainnet
+
 {% tabs %}
 {% tab title="Harvest USDC : cUSDC" %}
 **Expiration Block:** 13093398
@@ -69,4 +71,37 @@ description: These are the trusted contract addresses of the Risk Harbor protoco
 | :--- |
 {% endtab %}
 {% endtabs %}
+
+### **Matic**
+
+{% tabs %}
+{% tab title="bb\_amUSDC : USDC" %}
+| Contract Name | Address |
+| :--- | :--- |
+| Barnbridge Wrapper | 0x8E13C98F21A2389a98c9A613c434425bdfF20c67 |
+| PolicyHolder | ​0x62a90eF81702aC9E3D42b6E0071d02b909BdDA3f​ |
+| Underwriter | 0xC25Ab272e83e7B5105299e32BdC61e34598e094C |
+| StakingRewards | ​0xe08564d61E907dcaC8A9140263AD57459D30Edd9​ |
+{% endtab %}
+
+{% tab title="bb\_amDAI : USDC" %}
+| Contract Name | Address |
+| :--- | :--- |
+| Barnbridge Wrapper | 0x8E13C98F21A2389a98c9A613c434425bdfF20c67 |
+| PolicyHolder | ​0x7Cd6D0EeEB9142EC3E22770b5b1c06BA0bA69DaD​ |
+| Underwriter | 0x3E114057bb7b0fcEaf53f3254C084f3DE16E5DAB |
+| StakingRewards | ​0x232Bd870D15F981053125E247250456e82d0a3d7​ |
+{% endtab %}
+
+{% tab title="bb\_amUSDT : USDC" %}
+| Contract Name | Address |
+| :--- | :--- |
+| Barnbridge Wrapper | 0x8E13C98F21A2389a98c9A613c434425bdfF20c67 |
+| PolicyHolder | ​0x3c1563F69445CeE418a0823c5D28025F08C54229​ |
+| Underwriter | 0x326B4a921C61dd98cF80592323A9AB0dF45e4604 |
+| StakingRewards | ​0xbE7e603eCa1B6dC0f21d8B7AdD313D3986Ac662d​ |
+{% endtab %}
+{% endtabs %}
+
+\*\*\*\*
 
