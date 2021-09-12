@@ -27,7 +27,8 @@
 ## Contracts
 
 * [Security Audits](contracts/security-audits.md)
-* [Contract Addresses](contracts/contract-addresses.md)
+* [Contract Addresses](contracts/contract-addresses/README.md)
+  * [Archived Contracts](contracts/contract-addresses/archived-contracts.md)
 * [Ticket Accounting](https://docs.google.com/spreadsheets/d/1TjwjqeXfObX-tKfNPM-D9OUbNUiIZwZUbY0t-49_kDE/edit?usp=sharing)
 
 ## Resources
