@@ -9,6 +9,7 @@
 * [Pricing & Purchasing](protocol-overview/pricing.md)
 * [Filing a Claim](protocol-overview/filing-a-claim.md)
 * [Staking](protocol-overview/staking.md)
+* [Withdrawing](protocol-overview/withdrawing.md)
 * [Stablecoin Peg Protection](protocol-overview/stablecoin-peg-protection.md)
 
 ## UI Guide
