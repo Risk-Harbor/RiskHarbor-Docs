@@ -56,6 +56,13 @@ description: These are the trusted contract addresses of the Risk Harbor protoco
 | BarnBridge Wrapper | 0x3f338d83d1f370be29615ee24afb532fa66b2260 |
 | Underwriter | 0x883a14f809ebed3e0203e590374d06c0073c3548 |
 {% endtab %}
+
+{% tab title="Element USDC Oct28 : USDC" %}
+| Contract | Address |
+| :--- | :--- |
+| Element Wrapper | 0xadf71bB8be469C1BC818e0bD28F678f48F5649e8 |
+| Underwriter | 0x3C9E9B0a782A5F02B18A3D2C256973cC783d4612 |
+{% endtab %}
 {% endtabs %}
 
 ### **Matic**
